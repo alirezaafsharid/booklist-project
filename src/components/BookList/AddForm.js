@@ -12,7 +12,7 @@ export default class AddForm extends Component {
       author: "",
       year: "",
     };
-
+    // .....////////////////////...
     this.titleHandler = this.titleHandler.bind(this);
     this.authorHandler = this.authorHandler.bind(this);
     this.yearHandler = this.yearHandler.bind(this);
